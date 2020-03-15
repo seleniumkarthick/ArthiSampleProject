@@ -1,1 +1,2 @@
 sample line 1
+sample line 2
